@@ -2,7 +2,7 @@
 
 OpenAI-compatible inference server for Apple Silicon, powered by [mlx-swift-lm](https://github.com/osaurus-ai/mlx-swift-lm).
 
-Runs LLMs and VLMs locally via MLX and exposes them through a standard `/v1/chat/completions` API. Works with any client that speaks the OpenAI protocol -- LangChain, LlamaIndex, OpenAI SDKs, curl, etc.
+Runs LLMs and VLMs locally via MLX and exposes them through a standard `/v1/chat/completions` API. Works with any client that speaks the OpenAI protocol.
 
 ## Quick start
 
